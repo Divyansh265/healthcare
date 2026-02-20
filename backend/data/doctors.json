@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d1",
+    "user_id": "2",
+    "first_name": "John",
+    "last_name": "Smith",
+    "specialty": "Cardiology",
+    "qualification": "MBBS, MD",
+    "phone": "+1234567890",
+    "consultation_fee": 1000,
+    "experience_years": 10,
+    "available": true,
+    "created_at": "2026-02-20T08:37:36.627Z"
+  },
+  {
+    "id": "d2",
+    "user_id": "3",
+    "first_name": "Sarah",
+    "last_name": "Jones",
+    "specialty": "Dermatology",
+    "qualification": "MBBS, MD",
+    "phone": "+1234567891",
+    "consultation_fee": 800,
+    "experience_years": 8,
+    "available": true,
+    "created_at": "2026-02-20T08:37:36.627Z"
+  },
+  {
+    "id": "d3",
+    "user_id": "4",
+    "first_name": "Emily",
+    "last_name": "Williams",
+    "specialty": "Pediatrics",
+    "qualification": "MBBS, MD (Pediatrics)",
+    "phone": "+1234567893",
+    "consultation_fee": 700,
+    "experience_years": 12,
+    "available": true,
+    "created_at": "2026-02-20T08:37:36.627Z"
+  },
+  {
+    "id": "d4",
+    "user_id": "5",
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "specialty": "Orthopedics",
+    "qualification": "MBBS, MS (Ortho)",
+    "phone": "+1234567894",
+    "consultation_fee": 1200,
+    "experience_years": 15,
+    "available": true,
+    "created_at": "2026-02-20T08:37:36.627Z"
+  },
+  {
+    "id": "d5",
+    "user_id": "6",
+    "first_name": "Jennifer",
+    "last_name": "Davis",
+    "specialty": "Neurology",
+    "qualification": "MBBS, DM (Neurology)",
+    "phone": "+1234567895",
+    "consultation_fee": 1500,
+    "experience_years": 18,
+    "available": true,
+    "created_at": "2026-02-20T08:37:36.627Z"
+  }
+]
